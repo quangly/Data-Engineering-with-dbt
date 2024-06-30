@@ -1,6 +1,12 @@
 # Data-Engineering-with-dbt
 Data Engineering with dbt
 
+![alt text](images/nyc_parking_violations_medallian_architecture.png)
+![alt text](images/dbt_docs_generate_nyc_parking_violation_model.png)
+![alt text](images/dbt_docs_sparse_documentation.png)
+
+
+
 # Setup Python Virtual Environment
 
     python -m venv myenv
