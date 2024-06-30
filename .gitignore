@@ -12,7 +12,6 @@ __pycache__/
 # Distribution / packaging
 .Python
 myenv
-images/
 build/
 develop-eggs/
 dist/
