@@ -42,7 +42,9 @@ Data Engineering with dbt
     touch first_model.sql
 
 # DBT Commands
-
+ 
     dbt debug (need to be in dbt project directory)
     dbt compile (runs all db models end to end but does not execute)
     dbt run (runs all db models end to end, executes sql code, and materializes tables based on profile configurations)
+    dbt docs generate (view dbt project data lineage)
+    dbt docs serve (create local instance of website based on meta data)
