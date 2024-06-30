@@ -49,3 +49,5 @@ Data Engineering with dbt
     dbt docs generate (view dbt project data lineage)
     dbt docs serve (create local instance of website based on meta data)
     dbt test (run tests)
+    dbt compile --target prod (compile prod database)
+    dbt run --target prod (run prod database)
