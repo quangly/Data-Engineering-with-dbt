@@ -48,3 +48,4 @@ Data Engineering with dbt
     dbt run (runs all db models end to end, executes sql code, and materializes tables based on profile configurations)
     dbt docs generate (view dbt project data lineage)
     dbt docs serve (create local instance of website based on meta data)
+    dbt test (run tests)
