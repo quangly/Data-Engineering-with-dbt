@@ -51,3 +51,5 @@ Data Engineering with dbt
     dbt test (run tests)
     dbt compile --target prod (compile prod database)
     dbt run --target prod (run prod database)
+
+# GitHub Actions
